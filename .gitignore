@@ -40,8 +40,6 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb filter=strip-notebook-output
-
 
 # Testing
 .coverage
