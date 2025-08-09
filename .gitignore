@@ -29,6 +29,7 @@ venv/
 env/
 ENV/
 .env
+.venv/
 
 # IDE specific files
 .idea/
@@ -39,6 +40,8 @@ ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb filter=strip-notebook-output
+
 
 # Testing
 .coverage
