@@ -16,6 +16,7 @@ In essence, my solution is not just a single program but an iterative developmen
 # Future Work and Directions
 The project is continuously evolving. I am currently focused on testing, refining the workflow, and editing prompts to ensure the LangChain agent can produce high-quality research papers on Mars seismology that can be compared to industry standards. I am also researching other similar "deep-research" projects and open-source agents to understand their pros and cons and to identify areas where my project can be better or different. The notes mention scaling up the project by using more efficient similarity searches than cosine-similarity and looking into projects that use multi-agent systems to work in parallel, which is the direction I will be building towards.
 
+
 <---- End Personal ReadME --- Starts Langchain orginal Readme ---->
 
 # Open Deep Research
